@@ -131,6 +131,17 @@ The statistics of these initial topologies with varying densities are shown in T
     </table>
 </div>
 
+Each topology is saved with an **NPY** file created by **NumPy** library, researchers can read it with any NPY software interface. The file contains the state information of all agents, and this dataset only involves two-dimensional state. For example:
+
+```
+[
+    [x1, y1],   # the state of 1st agent
+    [x2, y2],   # the state of 2nd agent
+    ...
+    [xn, yn],   # the state of n-th agent    
+]
+```
+
 ## 2.1 ρ≈2
 <div align="center">
     <table>
