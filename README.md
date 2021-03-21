@@ -12,13 +12,17 @@ HSBMAS is a fully decentralized framework of the multi-agent system for consensu
 </div>
 
 ## 2. Dataset 
-This project contains the dataset of 10 types of topological structures in the square *20r_c × 20r_c* and, each of which has five different densities described as *ρ=N/L^2* and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[1]</sup>](#refer-topology). A total of 50 topologies (*ρ≈2,4,6,8,10*) are used for interesting and fair comparisons across proposed architecture $HSBMAS$ and traditional architecture $SAN$.
+This project contains the dataset of 10 types of topological structures in the square *20r_c × 20r_c* and, each of which has five different densities described as *ρ=N/L^2* and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[1]</sup>](#refer-topology). A total of 50 topologies (*ρ≈2,4,6,8,10*) are used for interesting and fair comparisons across proposed architecture *HSBMAS* and traditional architecture *SAN*.
 
 ## 2.1 ρ≈2
 <div align=center>
-    
-</div>
+    <table border="0">
+        <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+        <tr><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
 
+    </table>
+</div>
+<img src="small2.png" />
 ## 2.2 ρ≈4
 <div align=center>
     
@@ -41,4 +45,5 @@ This project contains the dataset of 10 types of topological structures in the s
 
 # Reference
 <div id="refer-topology"></div>
+
 - [1] [Vicsek T, Czirók A, Ben-Jacob E, et al. Novel type of phase transition in a system of self-driven particles[J]. Physical review letters, 1995, 75(6): 1226.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226)
