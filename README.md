@@ -19,7 +19,6 @@ This project contains the dataset of 10 types of topological structures in the s
     <table border="0">
         <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
         <tr><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
-
     </table>
 </div>
 <img src="small2.png" />
