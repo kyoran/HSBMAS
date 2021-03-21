@@ -10,4 +10,5 @@ this project contains the dataset of 10 types of topological structures in the s
 
 <div align=center>
     <iframe src="https://github.com/kyoran/HSBMAS/blob/main/example/diagram.gif">
+    </iframe>
 </div>
