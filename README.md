@@ -75,13 +75,43 @@ This project contains the dataset of 10 types of topological structures in the s
 </div>
 
 ## 2.4 ρ≈8
-<div align=center>
-    
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/001log_uniform_800/init_1_hop_conn.png" /><br><b><i>Uniform-800</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/002log_ring_800/init_1_hop_conn.png" /><br><b><i>Ring-800</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/003log_vase_800/init_1_hop_conn.png" /><br><b><i>Vase-800</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/004log_taiji_800/init_1_hop_conn.png" /><br><b><i>Taiji-800</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/005log_circle_800/init_1_hop_conn.png" /><br><b><i>Circle-800</i></b></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/006log_triangle_800/init_1_hop_conn.png" /><br><b><i>Triangle-800</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/007log_square_800/init_1_hop_conn.png" /><br><b><i>Square-800</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/008log_arch_800/init_1_hop_conn.png" /><br><b><i>Arch-800</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/009log_neat_square_841/init_1_hop_conn.png" /><br><b><i>Neat square-841</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-800/010log_neat_radiation_800/init_1_hop_conn.png" /><br><b><i>Neat radiation-800</i></b></td>
+        </tr>
+    </table>
 </div>
 
 ## 2.5 ρ≈10
-<div align=center>
-    
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/001log_uniform_1000/init_1_hop_conn.png" /><br><b><i>Uniform-1000</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/002log_ring_1000/init_1_hop_conn.png" /><br><b><i>Ring-1000</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/003log_vase_1000/init_1_hop_conn.png" /><br><b><i>Vase-1000</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/004log_taiji_1000/init_1_hop_conn.png" /><br><b><i>Taiji-1000</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/005log_circle_1000/init_1_hop_conn.png" /><br><b><i>Circle-1000</i></b></td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/006log_triangle_1000/init_1_hop_conn.png" /><br><b><i>Triangle-1000</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/007log_square_1000/init_1_hop_conn.png" /><br><b><i>Square-1000</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/008log_arch_1000/init_1_hop_conn.png" /><br><b><i>Arch-1000</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/009log_neat_square_1024/init_1_hop_conn.png" /><br><b><i>Neat square-1024</i></b></td>
+            <td align="center"><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-1000/010log_neat_radiation_1000/init_1_hop_conn.png" /><br><b><i>Neat radiation-1000</i></b></td>
+        </tr>
+    </table>
 </div>
 
 # Reference
