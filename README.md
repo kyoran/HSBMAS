@@ -20,8 +20,8 @@ This project contains the dataset of 10 types of topological structures in the s
 <div align="center">
     <table border="0" style="text-align:center">
         <tr>
-            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/init_1_hop_conn.png" /><br><b><i>Uniform-200</i></b></td>
-            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/002log_ring_200/init_1_hop_conn.png" /><br><b><i>Ring-200</i></b></td>
+            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/init_1_hop_conn.png" /><b><i>Uniform-200</i></b></td>
+            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/002log_ring_200/init_1_hop_conn.png" /><b><i>Ring-200</i></b></td>
             <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/003log_vase_200/init_1_hop_conn.png" /><br><b><i>Vase-200</i></b></td>
             <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/004log_taiji_200/init_1_hop_conn.png" /><br><b><i>Taiji-200</i></b></td>
             <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/005log_circle_200/init_1_hop_conn.png" /><br><b><i>Circle-200</i></b></td>
