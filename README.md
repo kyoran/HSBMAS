@@ -12,17 +12,17 @@ HSBMAS is a fully decentralized framework of the multi-agent system for consensu
 </div>
 
 ## 2. Dataset 
-This project contains the dataset of 10 types of topological structures in the square *20r_c × 20r_c* and, each of which has five different densities described as *ρ=N/L^2* and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[1]</sup>](#refer-topology). A total of 50 topologies (*ρ≈2,4,6,8,10*) are used for interesting and fair comparisons across proposed architecture *HSBMAS* and traditional architecture *SAN*.
+This project contains the dataset of 10 types of topological structures in the square *20r_c × 20r_c* and, each of which has five different densities described as *ρ=N/L^2* and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[1]</sup>](#refer-topology). A total of 50 topologies (*ρ≈2,4,6,8,10*) are used for interesting and fair comparisons across proposed architecture *HSBMAS* and traditional architecture *SAN*. The naming format of these topologies is: *Type-N*.
 
 ## 2.1 ρ≈2
 <div align=center>
     <table border="0">
         <tr>
             <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
-            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
-            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
-            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
-            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
+            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/002log_ring_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
+            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/003log_vase_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
+            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/004log_taiji_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
+            <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/005log_circle_200/init_1_hop_conn.png" /><br><b><i>N=200</i></b></td>
         </tr>
         <tr>
             <td>6</td>
