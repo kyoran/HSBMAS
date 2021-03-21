@@ -123,5 +123,6 @@ This project contains the dataset of 10 types of topological structures in the s
 <div id="refer-topology"></div>
 
 - [1] [Vicsek T, Czirók A, Ben-Jacob E, et al. Novel type of phase transition in a system of self-driven particles[J]. Physical review letters, 1995, 75(6): 1226-1229.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226)
+
 - [2] [Dongdong Zha, Di Zhang, Huayong Liu. Construction of smooth blending of three-parameter curves and optimization of parameters[J]. Journal of Graphics, 2020, 41(05): 725-732.] (https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCTX202005005&v=UNJTcmu%25mmd2BCFna5ViMyp0VX%25mmd2BP8ViKBRwbuzbliscRaPK0Lo6zgD9jJ1k4xv7RAShXX)
 
