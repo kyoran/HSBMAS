@@ -28,12 +28,12 @@ This project contains the dataset of 10 types of topological structures in the s
 <div align="center">
     <table border="1">
       <tr>
-        <thead align="center">11</thead>
-        <thead align="center">*ρ≈2*</thead>
-        <thead align="center">*ρ≈4*</thead>
-        <thead align="center">*ρ≈6*</thead>
-        <thead align="center">*ρ≈8*</thead>
-        <thead align="center">*ρ≈10*</thead>
+        <th align="center">11</th>
+        <th align="center">*ρ≈2*</th>
+        <th align="center">*ρ≈4*</th>
+        <th align="center">*ρ≈6*</th>
+        <th align="center">*ρ≈8*</th>
+        <th align="center">*ρ≈10*</th>
       </tr>
       <tr>
         <td align="center">Uniform</td>
@@ -50,6 +50,22 @@ This project contains the dataset of 10 types of topological structures in the s
         <td align="center">4484</td>
         <td align="center">8329</td>
         <td align="center">13036</td>
+      </tr>
+      <tr>
+        <td align="center">Vase</td>
+        <td align="center">744</td>
+        <td align="center">3650</td>
+        <td align="center">7669</td>
+        <td align="center">13998</td>
+        <td align="center">21441</td>
+      </tr>
+      <tr>
+        <td align="center">Taiji</td>
+        <td align="center">667</td>
+        <td align="center">2054</td>
+        <td align="center">4849</td>
+        <td align="center">8654</td>
+        <td align="center">14036</td>
       </tr>
     </table>
 </div>
