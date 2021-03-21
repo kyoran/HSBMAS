@@ -14,6 +14,8 @@ HSBMAS is a fully decentralized framework of the multi-agent system for consensu
 ## 2. Dataset 
 This project contains the dataset of 10 types of topological structures in the square <i>20r<sub>c</sub> × 20r<sub>c</sub></i> and, each of which has five different densities described as <i>ρ=N/L<sup>2</sup></i> and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[1]</sup>](#refer-topology). A total of 50 topologies (*ρ≈2,4,6,8,10*) are used for interesting and fair comparisons across proposed architecture *HSBMAS* and traditional architecture *SAN*. The naming format of these topologies is: *Type-N*.
 
+<b><i>Uniform-200</i></b>: *N* agents are uniformly distributed over the semi open closed interval *[-4, 4)*.
+
 ## 2.1 ρ≈2
 <div align="center">
     <table>
