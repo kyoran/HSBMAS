@@ -11,7 +11,7 @@ It is well known that network topology plays a key role in the convergence theor
     <b>(1)</b>
 </div>
 
-HSBMAS is a fully decentralized framework of the multi-agent system for consensus seeking. The framework can control the convergence evolution with hierarchical features of the network topology by only referring to local one-hop and two-hop neighbors' state. Notably, the proposed framework runs in a distributed and synchronous fashion. The diagram of our framework is shown as
+In this paper, we propose is a fully decentralized framework (*HSBMAS*) of multi-agent system for consensus seeking. The framework can control the convergence evolution with hierarchical features of the network topology by only referring to local one-hop and two-hop neighbors' state. Notably, the proposed framework runs in a distributed and synchronous fashion. The diagram of our framework is shown as
 
 <div align=center>
     <img src="https://github.com/kyoran/HSBMAS/blob/main/example/diagram.gif" width="40%">
