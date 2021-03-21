@@ -28,7 +28,7 @@ This project contains the dataset of 10 types of topological structures in the s
 <div align="center">
     <table border="1">
       <tr>
-        <thead align="center"></thead>
+        <thead align="center">11</thead>
         <thead align="center">*ρ≈2*</thead>
         <thead align="center">*ρ≈4*</thead>
         <thead align="center">*ρ≈6*</thead>
