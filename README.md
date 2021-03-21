@@ -12,7 +12,7 @@ HSBMAS is a fully decentralized framework of the multi-agent system for consensu
 </div>
 
 ## 2. Dataset 
-This project contains the dataset of 10 types of topological structures in the square <i>20r<sub>c</sub> × 20r<sub>c</sub></i> and, each of which has five different densities described as <i>ρ=N/L<sup>2</sup></i> and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[1]</sup>](#refer-topology). A total of 50 topologies (*ρ≈2,4,6,8,10*) are used for interesting and fair comparisons across proposed architecture *HSBMAS* and traditional architecture *SAN*. The naming format of these topologies is: *Type-N*.
+This project contains the dataset of 10 types of topological structures in the square <i>20r<sub>c</sub> × 20r<sub>c</sub></i> and, each of which has five different densities described as <i>ρ=N/L<sup>2</sup></i> and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[1]</sup>](#refer-density). A total of 50 topologies (*ρ≈2,4,6,8,10*) are used for interesting and fair comparisons across proposed architecture *HSBMAS* and traditional architecture *SAN*. The naming format of these topologies is: *Type-N*.
 
 - ***Uniform-N***: *N* agents are uniformly distributed over the semi open closed interval *[-4, 4)*.
 - ***Ring-N***: *N* agents are randomly distributed in four concentric squares centered at the origin, the length of their sides from outside to inside are 1.6, 1.12, 0.64 and 0.16, respectively.
@@ -120,9 +120,11 @@ This project contains the dataset of 10 types of topological structures in the s
 </div>
 
 # Reference
-<div id="refer-topology"></div>
+<div id="refer-density"></div>
 
 - [1] [Vicsek T, Czirók A, Ben-Jacob E, et al. Novel type of phase transition in a system of self-driven particles[J]. Physical review letters, 1995, 75(6): 1226-1229.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226)
+
+<div id="refer-vase"></div>
 
 - [2] [Dongdong Zha, Di Zhang, Huayong Liu. Construction of smooth blending of three-parameter curves and optimization of parameters[J]. Journal of Graphics, 2020, 41(05): 725-732.] (https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCTX202005005&v=UNJTcmu%25mmd2BCFna5ViMyp0VX%25mmd2BP8ViKBRwbuzbliscRaPK0Lo6zgD9jJ1k4xv7RAShXX)
 
