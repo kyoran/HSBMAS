@@ -8,8 +8,4 @@ this project contains the dataset of 10 types of topological structures in the s
         alt="framework"/>
 </div>
 
-<div align=center>
-    <img src="https://github.com/kyoran/HSBMAS/blob/main/example/diagram.gif" 
-        alt="example gif"/>
-</div>
-
+<iframe height=500 width=500 src="https://github.com/kyoran/HSBMAS/blob/main/example/diagram.gif">
