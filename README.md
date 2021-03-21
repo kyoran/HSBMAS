@@ -3,6 +3,9 @@ HSBMAS is a fully decentralized framework of the multi-agent system for consensu
 
 ![image]( https://github.com/kyoran/HSBMAS/blob/main/example/diagram.gif ){:width="20%"}
 <div align=center>
+    <img src="https://github.com/kyoran/HSBMAS/blob/main/example/diagram.gif" width="50%">
+</div>
+<div align=center>
     <img src="https://github.com/kyoran/HSBMAS/blob/main/example/framework.png" 
         alt="framework"/><br>
     <b>Illustration of the proposed framework</b>
