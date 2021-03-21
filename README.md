@@ -17,11 +17,11 @@ This project contains the dataset of 10 types of topological structures in the s
 ## 2.1 ρ≈2
 <div align=center>
     <table border="0">
-        <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+        <tr><td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/001log_uniform_200.png" /><br><b><i>N=200</i></b></td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
         <tr><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
     </table>
 </div>
-<img src="small2.png" />
+
 ## 2.2 ρ≈4
 <div align=center>
     
