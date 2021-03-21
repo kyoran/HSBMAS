@@ -1,5 +1,7 @@
 # HSBMAS - Hierarchical Switching-Backbone Multi-agent System
-
+<style>
+    table.td {text-align:center}
+</style>
 ## 1. Introduction
 HSBMAS is a fully decentralized framework of the multi-agent system for consensus seeking. The framework can control the convergence evolution with hierarchical features of the network topology by only referring to local one-hop and two-hop neighbors' state. Notably, the proposed framework runs in a distributed and synchronous fashion. The diagram of our framework are shown in the following figures.
 
@@ -16,9 +18,6 @@ This project contains the dataset of 10 types of topological structures in the s
 
 ## 2.1 ρ≈2
 <div align="center">
-    <style>
-        td {text-align:center}
-    </style>
     <table border="0" style="text-align:center">
         <tr>
             <td><img src="https://github.com/kyoran/HSBMAS/blob/main/Agents-200/001log_uniform_200/init_1_hop_conn.png" /><br><b><i>Uniform-200</i></b></td>
