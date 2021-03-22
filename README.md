@@ -242,6 +242,10 @@ Each topology is saved with an **NPY** file created by **NumPy** library, resear
     </table>
 </div>
 
+# License
+
+The proposed dataset is released under the MIT License.
+
 # Reference
 
 <div id="refer-problem"></div>
