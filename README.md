@@ -1,7 +1,7 @@
 # HSBMAS - Hierarchical Switching-Backbone Multi-agent System
 
 ## 1. Introduction
-It is well known that network topology plays a key role in the convergence theory of multi-agent systems, a sufficient condition for convergence is that the topology be sufficiently well connected over periodic windows of time [<sup>[1]</sup>](#refer-problem). Consider a traditional peer-to-peer multi-agent architecture where each agent communicates directly with all other perceived neighbors based on Select-All-Neighbors (*SAN*), each agent needs to select all neighbors in a communication region to update its own state using the consensus algorithm (1). However, the evolution of each agent is computationally infeasible when the number of neighbors increases exponentially and, the multi-agent system is prone to split into multiple clusters when the distribution of agents are irregular. 
+It is well known that network topology plays a key role in the convergence theory of multi-agent systems, a sufficient condition for convergence is that the topology be sufficiently well connected over periodic windows of time [<sup>[1]</sup>](#refer-problem). Consider a traditional peer-to-peer multi-agent architecture where each agent communicates directly with all other perceived neighbors based on Select-All-Neighbors (***SAN***), each agent needs to select all neighbors in a communication region to update its own state using the consensus algorithm (1). However, the evolution of each agent is computationally infeasible when the number of neighbors increases exponentially and, the multi-agent system is prone to split into multiple clusters when the distribution of agents are irregular. 
 
 <div align=center>
     <img src="https://github.com/kyoran/HSBMAS/blob/main/img/protocol.png" width="50%" alt="consensus protocol" >
@@ -11,7 +11,7 @@ It is well known that network topology plays a key role in the convergence theor
     <b>(1)</b>
 </div>
 
-In this paper, we propose is a fully decentralized framework (*HSBMAS*) of multi-agent system for consensus seeking. The framework can control the convergence evolution with hierarchical features of the network topology by only referring to local one-hop and two-hop neighbors' state. Notably, the proposed framework runs in a distributed and synchronous fashion. The diagram of our framework is shown as
+In this paper, we propose is a fully decentralized framework (***HSBMAS***) of multi-agent system for consensus seeking. The framework can control the convergence evolution with hierarchical features of the network topology by only referring to local one-hop and two-hop neighbors' state. Notably, the proposed framework runs in a distributed and synchronous fashion. The diagram of our framework is shown as
 
 <div align=center>
     <img src="https://github.com/kyoran/HSBMAS/blob/main/example/diagram.gif" width="40%">
@@ -22,7 +22,7 @@ In this paper, we propose is a fully decentralized framework (*HSBMAS*) of multi
 </div>
 
 ## 2. Dataset 
-This project contains the dataset of 10 types of topological structures in the square <i>20r<sub>c</sub> × 20r<sub>c</sub></i> and, each of which has five different densities described as <i>ρ=N/L<sup>2</sup></i> and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[2]</sup>](#refer-density). A total of 50 topologies with different densities (*ρ≈2,4,6,8,10*) and different types are used for interesting and fair comparisons across proposed architecture *HSBMAS* and traditional architecture *SAN*. The naming format of these topologies is: *Type-N*.
+This project contains the dataset of 10 types of topological structures in the square <i>20r<sub>c</sub> × 20r<sub>c</sub></i> and, each of which has five different densities described as <i>ρ=N/L<sup>2</sup></i> and is connected initially. The density *ρ* represents that *N* agents distributed in a square-shape area of linear size *L* [<sup>[2]</sup>](#refer-density). A total of 50 topologies with different densities (*ρ≈2,4,6,8,10*) and different types are used for interesting and fair comparisons across proposed architecture ***HSBMAS*** and traditional architecture ***SAN***. The naming format of these topologies is: *Type-N*.
 
 - ***Uniform-N***: *N* agents are uniformly distributed over the semi open closed interval *[-4, 4)*.
 - ***Ring-N***: *N* agents are randomly distributed on the ring with radius of *4*.
