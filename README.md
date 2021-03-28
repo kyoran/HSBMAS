@@ -258,7 +258,7 @@ The proposed dataset is released under the MIT License.
 
 <div id="refer-vase"></div>
 
-- [3] [Dongdong Zha, Di Zhang, Huayong Liu. Construction of smooth blending of three-parameter curves and optimization of parameters[J]. Journal of Graphics, 2020, 41(05): 725-732. (in Chinese)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCTX202005005&v=UNJTcmu%25mmd2BCFna5ViMyp0VX%25mmd2BP8ViKBRwbuzbliscRaPK0Lo6zgD9jJ1k4xv7RAShXX)
+- [3] [Dongdong Zha, Di Zhang, Huayong Liu. Construction of smooth blending of three-parameter curves and optimization of parameters[J]. Journal of Graphics, 2020, 41(05): 725-732. (in Chinese)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=GCTX202005005&dbname=CJFDLAST2020)
 
 <div id="refer-arch"></div>
 
