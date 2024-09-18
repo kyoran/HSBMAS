@@ -1,5 +1,17 @@
 # HSBMAS - Hierarchical Switching-Backbone Multi-agent System
 
+## Bibtex
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+```
+@article{xie2024consensus,
+  title={Consensus seeking in large-scale multiagent systems with hierarchical switching-backbone topology},
+  author={Xie, Guangqiang and Xu, Haoran and Li, Yang and Wang, Chang-Dong and Zhong, Biwei and Hu, Xianbiao},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
 ## 1. Introduction
 It is well known that network topology plays a key role in the convergence theory of multi-agent systems, a sufficient condition for convergence is that the topology be sufficiently well connected over periodic windows of time [<sup>[1]</sup>](#refer-problem). Consider a traditional peer-to-peer multi-agent architecture where each agent communicates directly with all other perceived neighbors based on Select-All-Neighbors (***SAN***), each agent needs to select all neighbors in a communication region to update its own state using the consensus algorithm (1). However, the evolution of each agent is **computationally infeasible** when the number of neighbors increases exponentially and, the multi-agent system is **prone to split into multiple clusters** when the distribution of agents are irregular. 
 
